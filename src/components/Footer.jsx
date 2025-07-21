@@ -19,7 +19,7 @@ const Footer = () => {
       </div>
       <div className="icons ">
         <Link
-          to="www.linkedin.com/in/kanishkadhanai"
+          to="https://www.linkedin.com/in/kanishkadhanai/"
           className="footer-icon-link" aria-label="Linking LinkedIn Profile"
         >
           <i className="ri-linkedin-box-fill dark:tw-text-zinc-100"></i>
